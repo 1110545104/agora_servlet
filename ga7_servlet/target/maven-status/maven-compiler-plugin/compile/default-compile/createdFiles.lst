@@ -1,0 +1,4 @@
+com\sena\ga7_servlet\ConexionBD.class
+com\sena\ga7_servlet\resources\JakartaEE10Resource.class
+com\sena\ga7_servlet\servlets\loginServlet.class
+com\sena\ga7_servlet\JakartaRestConfiguration.class
